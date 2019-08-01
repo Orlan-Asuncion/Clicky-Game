@@ -1,0 +1,27 @@
+body{
+background-color: rgb(110, 69, 69);
+margin:0;
+font-family: "Monserrat", "Avenir";
+}
+.square{
+    width: 30%;
+background: purple;
+padding-bottom: 30%;
+float: left;
+margin:1.66%;
+border-radius: 50%;
+}
+#container {
+    margin: 20px auto;
+    max-width: 600px;
+}
+h1{
+    background-color: steelblue;
+    line-height: 1.1;
+    font-weight: normal;
+    text-align: center;
+    color: white;
+    margin: 0;
+    text-transform: uppercase;
+    padding: 20px 0;
+}
