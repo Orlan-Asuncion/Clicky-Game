@@ -1,0 +1,57 @@
+[
+    {
+        "id": 0,
+        "name": "bee_eater",
+        "image": "assets/images/bee_eater.jpg",
+        "isClicked": false
+    },
+    {
+        "id": 1,
+        "name": "bird_perching",
+        "image": "assets/images/bird_perching.jpg",
+        "isClicked": false
+    },
+    {
+        "id": 2,
+        "name": "BirdAcademy",
+        "image": "assets/images/BirdAcademy.jpg",
+        "isClicked": false
+    },
+    {
+        "id": 3,
+        "name": "Bluebird_Pittston",
+        "image": "assets/images/Bluebird_Pittston.jpg",
+        "isClicked": false
+    },
+    {
+        "id": 4,
+        "name": "ChicagoBotanyGarden",
+        "image": "assets/images/ChicagoBotanyGarden.jpg",
+        "isClicked": false
+    },
+    {
+        "id": 5,
+        "name": "DreamBlast_dudes_V3",
+        "image": "assets/images/DreamBlast_dudes_V3.jpg",
+        "isClicked": false
+    },
+    {
+        "id": 6,
+        "name": "golden_crowned",
+        "image": "assets/images/golden_crowned.jpg",
+        "isClicked": false
+    },
+    {
+        "id": 7,
+        "name": "hummingbird",
+        "image": "assets/images/hummingbird.jpg",
+        "isClicked": false
+    },
+    {
+        "id": 8,
+        "name": "parrots",
+        "image": "assets/images/parrots.jpg",
+        "isClicked": false
+    }
+    
+]
