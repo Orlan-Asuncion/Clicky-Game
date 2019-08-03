@@ -3,10 +3,6 @@
   "version": "1.0.0",
   "homepage": "https://github.com/Orlan-Asuncion/Clicky-Game#readme",
   "description": "",
-  "main": "index.js",
-  "engines": {
-    "node": "10.x"
-  },
   "dependencies": {
     "bootstrap": "^4.3.1",
     "mdbreact": "^4.18.1",
@@ -18,9 +14,10 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
   },
   "repository": {
     "type": "git",
