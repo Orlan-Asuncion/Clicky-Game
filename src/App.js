@@ -1,9 +1,9 @@
 import React, {Component} from 'react';
 import Navbar from './components/Navbar';
-import Haeder from './components/Header';
+import Header from './components/Header';
 import Item from './components/Item';
 import Footer from './components/Footer';
-import characters from './characters.json'
+import characters from './character.json';
 import './App.css';
 // import { directive } from '@babel/types';
 
@@ -28,20 +28,14 @@ import './App.css';
 //   );
 
 // }
-import React, { Component } from 'react';
-import Navbar from './components/Navbar';
-import Header from './components/Header';
-import Item from './components/Item';
-import Footer from './components/Footer';
-import characters from "./characters.json";
-import './App.css';
+
 
 class App extends Component {
   // Setting the initial state of the App component
   constructor(){
     super()
 
-    this.handleShuffleChararcters = this.handleShuffleChararcters.bind(this)
+    this.handleShuffleCharacters = this.handleShuffleCharacters.bind(this)
   }
 
   state = {
@@ -80,7 +74,7 @@ class App extends Component {
       this.setState({topScore: this.state.topScore+1})
     }
     if (this.state.score+1 === this.state.maxScore) {
-      this.setState({score: this.state.score+1, message: "Congrats! You win!", messageClass:"correct"})
+      this.setState({score: this.state.score+1, message: "Congratulations! You win!", messageClass:"correct"})
     }else{
       this.setState({score: this.state.score+1, message: "You guessed correctly!", messageClass:"correct"})
     }
@@ -107,7 +101,7 @@ class App extends Component {
   }
 
 
-  handleShuffleChararcters = (name) => {
+  handleShuffleCharacters = (name) => {
     // this.handleResetWin();
     var resetNeeded = false;
     const characters = this.state.characters.map(ch => {
@@ -143,7 +137,7 @@ class App extends Component {
               image={character.image} 
               name={character.name} 
               key={character.id} 
-              onClick={this.handleShuffleChararcters} 
+              onClick={this.handleShuffleCharacters} 
             />
           );
   }
@@ -169,6 +163,6 @@ class App extends Component {
   }
 }
 
-export default App;
+
 
 export default App;

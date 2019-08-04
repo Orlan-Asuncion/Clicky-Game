@@ -25,14 +25,14 @@
     },
     {
         "id": 4,
-        "name": "ChicagoBotanyGarden",
-        "image": "assets/images/ChicagoBotanyGarden.jpg",
+        "name": "ChicagoBotanicGarden",
+        "image": "assets/images/ChicagoBotanicGarden.jpg",
         "isClicked": false
     },
     {
         "id": 5,
-        "name": "DreamBlast_dudes_V3",
-        "image": "assets/images/DreamBlast_dudes_V3.jpg",
+        "name": "DreamBlast_dudes_v3",
+        "image": "assets/images/DreamBlast_dudes_v3.png",
         "isClicked": false
     },
     {
@@ -51,6 +51,24 @@
         "id": 8,
         "name": "parrots",
         "image": "assets/images/parrots.jpg",
+        "isClicked": false
+    },
+    {
+        "id": 9,
+        "name": "saga",
+        "image": "assets/images/saga.jpg",
+        "isClicked": false
+    },
+    {
+        "id": 10,
+        "name": "sparrow",
+        "image": "assets/images/sparrow.jpg",
+        "isClicked": false
+    },
+    {
+        "id": 11,
+        "name": "terry_7",
+        "image": "assets/images/terry_7.jpg",
         "isClicked": false
     }
     

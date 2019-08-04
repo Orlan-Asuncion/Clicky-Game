@@ -1,5 +1,6 @@
 .footer {
-    background: #b30e53;
+    background: #1a0ce4;
+    background: #;
     height: 100px;
     position: relative;
     color: #fff;
@@ -11,7 +12,7 @@
     bottom: 0;
     left: 0;
     right: 0;
-    background: #b30e53;
+    background: #1a0ce4;
     padding: 8px;
     font-weight: 600;
 }
