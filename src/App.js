@@ -41,7 +41,7 @@ class App extends Component {
   state = {
     score: 0,
     topScore: 0,
-    maxScore: 12,
+    maxScore: 16,
     message: "Click an image to begin!",
     messageClass: "",
     characters: characters

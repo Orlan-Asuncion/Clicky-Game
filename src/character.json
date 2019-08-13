@@ -70,6 +70,32 @@
         "name": "terry_7",
         "image": "assets/images/terry_7.jpg",
         "isClicked": false
+    },
+    {
+        "id": 12,
+        "name": "bluebird",
+        "image": "assets/images/bluebird.jpg",
+        "isClicked": false
+    },
+    {
+        "id": 13,
+        "name": "apps.25758",
+        "image": "assets/images/apps.25758.jpg",
+        "isClicked": false
+    },
+    {
+        "id": 14,
+        "name": "PVueEak",
+        "image": "assets/images/PVueEak.jpg",
+        "isClicked": false
+    },
+    {
+        "id": 15,
+        "name": "TanahPapua",
+        "image": "assets/images/TanahPapua.jpg",
+        "isClicked": false
     }
+   
+    
     
 ]
