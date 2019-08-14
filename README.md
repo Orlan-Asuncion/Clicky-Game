@@ -22,4 +22,8 @@
     * Google birds images
     * YouTube videos
 
-### Try it! https://morning-spire-19779.herokuapp.com/
+### Deployed to Heroku
+
+Click on the link: 
+
+[a link]( https://morning-spire-19779.herokuapp.com/)
